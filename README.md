@@ -26,6 +26,7 @@ Sou um profissional em transição de carreira para Salesforce, focado na área 
 Estou aprendendo de forma prática através de projetos próprios e da plataforma [Trailhead](https://trailhead.salesforce.com/).
 
 Vamos conectar?  
+🎫 linkedin: https://www.linkedin.com/in/elivander-rodrigues-carneiro-bb3463164/
 📧 Email: trabalhovirtuabr@gmail.com  
 📱 Instagram: @rednavile (https://instagram.com/rednavile)
 
